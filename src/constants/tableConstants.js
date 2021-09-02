@@ -1,0 +1,3 @@
+export const TABLE_NO_REQUEST = 'TABLE_NO_REQUEST';
+export const TABLE_NO_SUCCESS = 'TABLE_NO_SUCCESS';
+export const TABLE_NO_FAIL = 'TABLE_NO_FAIL';
